@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="RenameImage">
+    <file>image-imageicon.png</file>
+  </qresource>
+</RCC>
